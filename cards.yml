@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Bank cards related localtest APIs "
+  message: "Welcome to Bank cards related localtt APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@bank.com"
